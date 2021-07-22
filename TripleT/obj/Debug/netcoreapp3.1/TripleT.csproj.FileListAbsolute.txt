@@ -1,0 +1,12 @@
+/Users/titusmoore/Projects/TripleT/TripleT/bin/Debug/netcoreapp3.1/TripleT.deps.json
+/Users/titusmoore/Projects/TripleT/TripleT/bin/Debug/netcoreapp3.1/TripleT.runtimeconfig.json
+/Users/titusmoore/Projects/TripleT/TripleT/bin/Debug/netcoreapp3.1/TripleT.runtimeconfig.dev.json
+/Users/titusmoore/Projects/TripleT/TripleT/bin/Debug/netcoreapp3.1/TripleT.dll
+/Users/titusmoore/Projects/TripleT/TripleT/bin/Debug/netcoreapp3.1/TripleT.pdb
+/Users/titusmoore/Projects/TripleT/TripleT/obj/Debug/netcoreapp3.1/TripleT.csprojAssemblyReference.cache
+/Users/titusmoore/Projects/TripleT/TripleT/obj/Debug/netcoreapp3.1/TripleT.AssemblyInfoInputs.cache
+/Users/titusmoore/Projects/TripleT/TripleT/obj/Debug/netcoreapp3.1/TripleT.AssemblyInfo.cs
+/Users/titusmoore/Projects/TripleT/TripleT/obj/Debug/netcoreapp3.1/TripleT.csproj.CoreCompileInputs.cache
+/Users/titusmoore/Projects/TripleT/TripleT/obj/Debug/netcoreapp3.1/TripleT.dll
+/Users/titusmoore/Projects/TripleT/TripleT/obj/Debug/netcoreapp3.1/TripleT.pdb
+/Users/titusmoore/Projects/TripleT/TripleT/obj/Debug/netcoreapp3.1/TripleT.genruntimeconfig.cache

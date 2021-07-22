@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{08C53667-DAF3-48C9-A166-C7E0B2DA249C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TripleT/Program.cs">
+    <Files>
+      <File FileName="TripleT/Program.cs" Line="6" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TripleT" expanded="True">
+            <Node name="TripleT" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TripleT PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
