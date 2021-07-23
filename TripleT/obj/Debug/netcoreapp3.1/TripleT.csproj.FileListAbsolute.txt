@@ -10,3 +10,16 @@
 /Users/titusmoore/Projects/TripleT/TripleT/obj/Debug/netcoreapp3.1/TripleT.dll
 /Users/titusmoore/Projects/TripleT/TripleT/obj/Debug/netcoreapp3.1/TripleT.pdb
 /Users/titusmoore/Projects/TripleT/TripleT/obj/Debug/netcoreapp3.1/TripleT.genruntimeconfig.cache
+E:\Development\Personal\c#\triplet\TripleT\bin\Debug\netcoreapp3.1\TripleT.exe
+E:\Development\Personal\c#\triplet\TripleT\bin\Debug\netcoreapp3.1\TripleT.deps.json
+E:\Development\Personal\c#\triplet\TripleT\bin\Debug\netcoreapp3.1\TripleT.runtimeconfig.json
+E:\Development\Personal\c#\triplet\TripleT\bin\Debug\netcoreapp3.1\TripleT.runtimeconfig.dev.json
+E:\Development\Personal\c#\triplet\TripleT\bin\Debug\netcoreapp3.1\TripleT.dll
+E:\Development\Personal\c#\triplet\TripleT\bin\Debug\netcoreapp3.1\TripleT.pdb
+E:\Development\Personal\c#\triplet\TripleT\obj\Debug\netcoreapp3.1\TripleT.csproj.AssemblyReference.cache
+E:\Development\Personal\c#\triplet\TripleT\obj\Debug\netcoreapp3.1\TripleT.AssemblyInfoInputs.cache
+E:\Development\Personal\c#\triplet\TripleT\obj\Debug\netcoreapp3.1\TripleT.AssemblyInfo.cs
+E:\Development\Personal\c#\triplet\TripleT\obj\Debug\netcoreapp3.1\TripleT.csproj.CoreCompileInputs.cache
+E:\Development\Personal\c#\triplet\TripleT\obj\Debug\netcoreapp3.1\TripleT.dll
+E:\Development\Personal\c#\triplet\TripleT\obj\Debug\netcoreapp3.1\TripleT.pdb
+E:\Development\Personal\c#\triplet\TripleT\obj\Debug\netcoreapp3.1\TripleT.genruntimeconfig.cache

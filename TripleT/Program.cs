@@ -62,7 +62,7 @@ namespace TripleT {
         }
 
         static char[,] MakeMove(char user, char[,] game) {
-            bool validInput = false;
+            bool validInput = true;
             bool newPosition = true;
             int row;
             int column;
@@ -73,19 +73,31 @@ namespace TripleT {
                 }
 
                 do {
-                    Console.Write("Enter Row > ");
-                    string string_row = Console.ReadLine();
+                    if (!validInput) {
+                        Console.WriteLine("Invalid input, put a number between 1 and 3.");
+                    }
 
-                    validInput = Int32.TryParse(string_row, out row);
+                    Console.Write("Enter Row > ");
+                    char string_row = Console.ReadKey().KeyChar;
+
+                    validInput = Int32.TryParse(string_row.ToString(), out row);
+                    validInput = !validInput ? validInput : row < 4;
+                    Console.WriteLine();
 
                 } while (!validInput);
 
                 do {
-                    validInput = false;
-                    Console.Write("Enter Column > ");
-                    string string_column = Console.ReadLine();
+                    if (!validInput) {
+                        Console.WriteLine("Invalid input, put a number between 1 and 3.");
+                    }
 
-                    validInput = Int32.TryParse(string_column, out column);
+                    Console.Write("Enter Column > ");
+                    char string_column = Console.ReadKey().KeyChar;
+
+                    validInput = Int32.TryParse(string_column.ToString(), out column);
+                    validInput = !validInput ? validInput : row < 4;
+                    Console.WriteLine();
+
 
                 } while (!validInput);
 
